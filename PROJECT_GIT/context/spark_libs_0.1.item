@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_PCOTQM6sEea-kP9GEgwZHw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_PCOTQc6sEea-kP9GEgwZHw" comment="" name="SPARK_HOME" prompt="SPARK_HOME?" promptNeeded="false" type="id_String" value="&quot;/usr/spark/share/lib&quot;"/>
+  <contextParameter xmi:id="_PCOTQs6sEea-kP9GEgwZHw" comment="" name="SPARK_HOST" prompt="SPARK_HOST?" promptNeeded="false" type="id_String" value="&quot;spark://ClusterCDH54:7077&quot;"/>
+</talendfile:ContextType>
