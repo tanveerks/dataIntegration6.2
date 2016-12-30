@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Z-aUAM6sEea-kP9GEgwZHw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Z-aUAc6sEea-kP9GEgwZHw" comment="" name="broker_list" prompt="broker_list?" promptNeeded="false" type="id_String" value="&quot;ClusterCDH54:9092&quot;"/>
+</talendfile:ContextType>
