@@ -99,6 +99,40 @@
       <relatedItems xmi:id="_Bh8lnslQEeaed6hI_eczbQ" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Bh8ln8lQEeaed6hI_eczbQ" id="DataQualityDependencies" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_0_PQUM6cEea-kP9GEgwZHw">
+      <baseItem xmi:id="_0_PQUc6cEea-kP9GEgwZHw" id="_hXU88M6ZEeaRE7aFI9HNiw" version="0.1" type="job"/>
+      <relatedItems xmi:id="_0_PQUs6cEea-kP9GEgwZHw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_PQU86cEea-kP9GEgwZHw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_PQVM6cEea-kP9GEgwZHw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_PQVc6cEea-kP9GEgwZHw" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_PQVs6cEea-kP9GEgwZHw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3YM6cEea-kP9GEgwZHw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3Yc6cEea-kP9GEgwZHw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3Ys6cEea-kP9GEgwZHw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3Y86cEea-kP9GEgwZHw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3ZM6cEea-kP9GEgwZHw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3Zc6cEea-kP9GEgwZHw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3Zs6cEea-kP9GEgwZHw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3Z86cEea-kP9GEgwZHw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3aM6cEea-kP9GEgwZHw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_0_P3ac6cEea-kP9GEgwZHw">
+      <baseItem xmi:id="_0_P3as6cEea-kP9GEgwZHw" id="_gF7G0M6WEeaRE7aFI9HNiw" version="0.1" type="job"/>
+      <relatedItems xmi:id="_0_P3a86cEea-kP9GEgwZHw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3bM6cEea-kP9GEgwZHw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3bc6cEea-kP9GEgwZHw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3bs6cEea-kP9GEgwZHw" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3b86cEea-kP9GEgwZHw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3cM6cEea-kP9GEgwZHw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3cc6cEea-kP9GEgwZHw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3cs6cEea-kP9GEgwZHw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3c86cEea-kP9GEgwZHw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3dM6cEea-kP9GEgwZHw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3dc6cEea-kP9GEgwZHw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3ds6cEea-kP9GEgwZHw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3d86cEea-kP9GEgwZHw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_0_P3eM6cEea-kP9GEgwZHw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_VM3y8MieEeaHj-oNcPTZWg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_VM3y8cieEeaHj-oNcPTZWg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_VM3y8sieEeaHj-oNcPTZWg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
